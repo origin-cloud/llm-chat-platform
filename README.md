@@ -6,7 +6,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue)
 ![Vite](https://img.shields.io/badge/Vite-7.2.5-purple)
 
-##注意 -请将项目中的 `apiKey` 替换为您自己的 API 密钥。
+##注意 -请设置您自己的 API 密钥。
+本项目使用环境变量来管理 API 密钥和 URL，
+您需要在 `.env` 文件中设置您自己的 API 密钥和 URL。
 
 ## ✨ 核心特性
 
